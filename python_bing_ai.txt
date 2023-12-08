@@ -1,0 +1,23 @@
+Here is a roadmap to become a Python developer in 2023:
+
+1. **Learn the Basics**: Start with the basics of Python programming language, including syntax, variables, data types, conditionals, and functions.
+2. **Data Structures and Algorithms**: Learn about arrays, linked lists, heaps, stacks, queues, hash tables, binary search trees, recursion, and sorting algorithms.
+3. **Advanced Topics**: Explore advanced topics such as modules, custom iterators, and decorators.
+4. **Learn a Framework**: Choose a framework such as Django, Flask, Pyramid, or Tornado, and learn how to use it.
+5. **Testing your Apps**: Learn how to test your applications using unittest/pyUnit, pytest, doctest, or nose.
+6. **Find a Job**: Build your portfolio, network with other developers, and apply for Python developer positions.
+
+Here are some resources that can help you get started:
+
+1. **Roadmap.sh**: A comprehensive roadmap to becoming a modern Python developer in 2023. It includes a detailed version of the roadmap along with resources and other roadmaps ¹.
+2. **Zero to Mastery**: A curated curriculum of courses, workshops, challenges, and action items to build your skills, portfolio, and experience to become a Python Developer ²³.
+3. **BrainStation**: A Python Developer career guide that provides an in-depth overview of the Python programming skills you should learn, the best training options, career paths in Python, how to become a Python Developer, and more ⁴.
+
+I hope this helps!.
+
+Source: Conversation with Bing, 07/12/2023
+(1) Learn to become a modern Python developer - Roadmap. https://roadmap.sh/python.
+(2) How to Become a Python Developer & Get Hired | Zero To Mastery. https://zerotomastery.io/career-paths/become-a-python-developer/.
+(3) Your Step-By-Step Roadmap to a Career in Tech | Zero To Mastery. https://zerotomastery.io/career-paths/.
+(4) How to Become a Python Developer (2023 Guide) | BrainStation®. https://brainstation.io/career-guides/how-to-become-a-python-developer.
+(5) en.wikipedia.org. https://en.wikipedia.org/wiki/Python_(programming_language).
